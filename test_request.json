@@ -1,0 +1,11 @@
+{
+    "features": {
+        "duration": 24,
+        "credit_amount": 5000,
+        "installment_commitment": 3,
+        "residence_since": 2,
+        "age": 28,
+        "existing_credits": 2,
+        "num_dependents": 1
+    }
+}
