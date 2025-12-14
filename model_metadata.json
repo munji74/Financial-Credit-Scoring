@@ -1,0 +1,13 @@
+{
+  "model_type": "Logistic Regression",
+  "n_features": 48,
+  "test_auc": 0.7897883597883598,
+  "test_accuracy": 0.71,
+  "trained_date": "2025-12-14 23:13:49",
+  "hyperparameters": {
+    "C": 0.001,
+    "class_weight": "balanced",
+    "penalty": "l2",
+    "solver": "liblinear"
+  }
+}
